@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App module renders properly 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Loot Check
+  </h1>
+  <hr />
+  <Connect(Wallet) />
+  <Connect(Loot) />
+</div>
+`;
